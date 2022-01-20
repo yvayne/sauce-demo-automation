@@ -2,6 +2,7 @@
 /.gradle/
 /.idea/
 /allure-results/
+/allure-report/
 /build/
 /classes/
 /logs/
