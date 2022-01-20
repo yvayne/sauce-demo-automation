@@ -6,6 +6,7 @@
 /build/
 /classes/
 /logs/
+/reports/
 /out/
 /test-output/
 *.iml
